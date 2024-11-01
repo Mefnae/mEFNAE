@@ -14,7 +14,7 @@ I'm **Mefant**
 * 🔭 _I’m currently working on_ ...
 * 🌱 _I’m currently learning_ ...
 * 👯 _I’m looking to collaborate ~~on~~ with_ GitHub Copilot as a Student
-* 🤔 _I’m looking for help with_ Nothing specific ATM, *just not eager to it, currently*!
+* 🤔 _I’m looking for help with_ Nothing specific ATM, *just not eager to it, currently,*
 * 💬 _Ask me about_ Nothing on my mind for discussion.
 * 📫 _How to reach me_:
   * ~~Temp~~ Email: `nsimba.diasumwa[at]gymnasium-teltow.de`

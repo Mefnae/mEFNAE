@@ -5,8 +5,11 @@ I'm **Mefant**
 * ⌨️ *Develop HTML5 games* and explores various other technologies.
 
 ## 🛠️ Current Tools and Technologies:
- * **Working w/ ** a game dev's static enviroment.
- * ***Obsolete* Development Environment(s)** (e.g. for WPA: [Brackets](https://brackets.io/ "Brackets is maintained by the brackets.io community") by Adobe - ) changed to [Phoenix Code](https://phcode.io/ "Phoenix is a modern open-source and free software code editor") or on [GitHub (documentation and source)](https://github.com/phcode-dev/phoenix/) but for other mainly using Visual Studio Code.
+ * **Working with** a game development static environment.
+ * **Libraries**: Box2D, [olcPixelGameEngine (GitHub)](https://github.com/OneLoneCoder/olcPixelGameEngine), SQLCipher, SQLite, and others.
+ * **Obsolete Development Environment(s)**: 
+   * For WPA: [Brackets](https://brackets.io/ "Brackets is maintained by the brackets.io community") by Adobe, now changed to [Phoenix Code](https://phcode.io/ "Phoenix is a modern open-source and free software code editor") or available on [GitHub (documentation and source)](https://github.com/phcode-dev/phoenix/).
+   * Mainly using Visual Studio Code for *other* development tasks.
 
 * 🔭 _I’m currently working on_ ...
 * 🌱 _I’m currently learning_ ...

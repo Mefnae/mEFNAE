@@ -5,11 +5,11 @@ I'm **Mefant**
 * ⌨️ *Develop HTML5 games* and explores various other technologies.
 
 ## 🛠️ Current Tools and Technologies:
-* **Working with** a game development static environment.
-* **Libraries**: Box2D, [olcPixelGameEngine (GitHub)](https://github.com/OneLoneCoder/olcPixelGameEngine), SQLCipher, SQLite, and others.
-* **Obsolete Development Environment(s)**: 
-* For WPA: [Brackets](https://brackets.io/ "Brackets is maintained by the brackets.io community") by Adobe, now changed to [Phoenix Code](https://phcode.io/ "Phoenix is a modern open-source and free software code editor") or available on [GitHub (documentation and source)](https://github.com/phcode-dev/phoenix/).
-* Mainly using Visual Studio Code for *other* development tasks.
+  * **Working with** a game development static environment.
+  * **Libraries**: Box2D, [olcPixelGameEngine (GitHub)](https://github.com/OneLoneCoder/olcPixelGameEngine), SQLCipher, SQLite, and others.
+  * **Obsolete Development Environment(s)**: 
+  * For WPA: [Brackets](https://brackets.io/ "Brackets is maintained by the brackets.io community") by Adobe, now changed to [Phoenix Code](https://phcode.io/ "Phoenix is a modern open-source and free software code editor") or available on [GitHub (documentation and source)](https://github.com/phcode-dev/phoenix/).
+  * Mainly using Visual Studio Code for *other* development tasks.
 
 * 🔭 _I’m currently working on_ ...
 * 🌱 _I’m currently learning_ ...
@@ -17,9 +17,10 @@ I'm **Mefant**
 * 🤔 _I’m looking for help with_ ...
 * 💬 _Ask me about_ ...
 * 📫 _How to reach me_:
-* ~~Temp~~ Email: `nsimba.diasumwa[at]gymnasium-teltow.de`
-* FB: [Facebook](https://www.facebook.com/dieter.bodof "My Facebook Profile")
-* 😄 *Pronouns*: `he/him`
+  * ~~Temp~~ Email: `nsimba.diasumwa[at]gymnasium-teltow.de`
+  * FB: [Facebook](https://www.facebook.com/dieter.bodof "My Facebook Profile")
+😄 *Pronouns*:
+  `he/him`
 > * ⚡ _Fun fact_: Maybe later – I'll have one.
 
 * * *

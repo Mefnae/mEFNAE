@@ -12,7 +12,7 @@ I'm **Mefant**
   * Mainly using Visual Studio Code for *other* development tasks.
 
 * 🔭 _I’m currently working on_ ~~*Applying for GitHub Student*~~ [See *I'm currently learning*](#im-currently-learning)
-## _I’m currently learning_ Business development and sales related to animation content distribution.
+* ## _I’m currently learning_ Business development and sales related to animation content distribution.
 * 👯 _I’m looking to collaborate ~~on~~ with_ GitHub Copilot as a Student
 * 🤔 _I’m looking for help with_ Nothing specific ATM, *just not eager to it, currently,*
 * 💬 _Ask me about_ Nothing on my mind for discussion.

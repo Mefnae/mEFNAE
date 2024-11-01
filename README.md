@@ -19,8 +19,8 @@ I'm **Mefant**
 * 📫 _How to reach me_:
   * ~~Temp~~ Email: `nsimba.diasumwa[at]gymnasium-teltow.de`
   * FB: [Facebook](https://www.facebook.com/dieter.bodof "My Facebook Profile")
-😄 *Pronouns*:
-  `he/him`
+* 😄 *Pronouns*:
+  * `he/him`
 > * ⚡ _Fun fact_: Maybe later – I'll have one.
 
 * * *

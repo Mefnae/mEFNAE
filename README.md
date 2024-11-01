@@ -6,7 +6,7 @@ I'm **Mefant**
 
 ## 🛠️ Current Tools and Technologies:
  * **Working w/ ** a game dev's static enviroment.
- * ***Obsolete*Development Environment(s)** (e.g. for WPA: [Brackets](https://brackets.io/ "Brackets is maintained by the brackets.io community") by Adobe - ) changed to [Phoenix Code](https://phcode.io/ "Phoenix is a modern open-source and free software code editor") or on [GitHub (documentation and source)](https://github.com/phcode-dev/phoenix/) but for other mainly using Visual Studio Code.
+ * ***Obsolete* Development Environment(s)** (e.g. for WPA: [Brackets](https://brackets.io/ "Brackets is maintained by the brackets.io community") by Adobe - ) changed to [Phoenix Code](https://phcode.io/ "Phoenix is a modern open-source and free software code editor") or on [GitHub (documentation and source)](https://github.com/phcode-dev/phoenix/) but for other mainly using Visual Studio Code.
 
 * 🔭 _I’m currently working on_ ...
 * 🌱 _I’m currently learning_ ...
